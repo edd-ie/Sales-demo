@@ -1,6 +1,45 @@
-body{
-    font-family: "Lucida Calligraphy";
+*{
     font-weight: bold;
+    margin: 0;
+    padding: 0;
+    font-family: "Comic Sans MS";
+    color: white;
+}
+
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("4k.jpg");
+    height: 670px;
+    background-size: cover;
+    background-position: center;
 
 }
-.btn-primary{alignment: center}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px;
+    border: 1px solid black;
+    transition: 0.6s;
+    border-radius: 15px;
+
+}
+
+ul li a:hover{
+    background-color: white;
+    color: black;
+}
+
+h5{
+    color: black;
+    font-family: "Lucida Calligraphy";
+}
