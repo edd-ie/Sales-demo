@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="186e21ec-7051-4f8c-ab0a-141323cc676f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/diamond.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Inventory.html" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Invt_Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Invt_Style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +24,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TezjbKlFVtD45vL1CCUctmeEFl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -61,7 +64,11 @@
       <option name="presentableId" value="Default" />
       <updated>1573835484940</updated>
       <workItem from="1573835486191" duration="4564000" />
-      <workItem from="1573917188384" duration="8466000" />
+      <workItem from="1573917188384" duration="8837000" />
+      <workItem from="1573978440332" duration="1578000" />
+      <workItem from="1574089760828" duration="1033000" />
+      <workItem from="1574241891028" duration="3130000" />
+      <workItem from="1574255968835" duration="613000" />
     </task>
     <servers />
   </component>
@@ -73,10 +80,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
